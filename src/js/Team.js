@@ -47,3 +47,4 @@ first.setChar(char, char2, char3);
 for (const char of first) {
   console.log(char);
 }
+
